@@ -18,4 +18,4 @@ I am passionate about learning how things work under the hood and creating effic
 
 **Currently learning:**<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
